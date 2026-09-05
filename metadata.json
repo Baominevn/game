@@ -1,0 +1,6 @@
+{
+  "name": "CyberStrike",
+  "description": "Sci-Fi cyberpunk tactical action combat game with AI neural opponents, real-world sensory sync, anti-cheat security, dynamic animations, and item arsenal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
